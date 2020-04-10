@@ -10,15 +10,15 @@ Some of the tasks that PEtool makes possible are:
   * Automatic directory scan for .exe and .dll files.
   * Analysis of sections' data and size, imports and exprts. 
   * File packer detection.
-  * Reading strings from the resource section. 
+  * Reading strings from the resource section. String can only be viewed in Pycharm dump.
   * Warnings for suspicious and malformed values
-  * Packer detection with [PEiD’s signatures]. Database text attached is downloaded form Text downloadable from (http://web.archive.org/web/20160507191641/http://woodmann.com/BobSoft/Download.php?file=Files%2FOther%2FUserDB.zip)
+  * Packer detection with [PEiD’s signatures]. Database text attached is downloaded from (http://web.archive.org/web/20160507191641/http://woodmann.com/BobSoft/Download.php?file=Files%2FOther%2FUserDB.zip)
   * HTML report of sections' information. 
 
 ## Dependencies
 
 The project will need the PEfile obtained at (https://github.com/erocarrera/pefile). Additional libaraies and documents needed
-are present in the Userrequirements.txt.
+are present in the requirements.txt attached.
 
 ## Usages
 
