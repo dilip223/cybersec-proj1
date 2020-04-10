@@ -1,0 +1,13 @@
+#cybersec-proj1
+
+#Libraries required
+Your project interpreter (preferably - Python 2.7 virtual env) must have the following libraries installed.
+- Future
+- Flask
+- Jinja 2
+
+#Others
+Your project directory must contain
+- The exracted PEfile obtained from https://github.com/erocarrera/pefile.
+- The "templates" folder containing HTML codes must be present in the main project directory.
+- The existing signature database USERDB.txt file
